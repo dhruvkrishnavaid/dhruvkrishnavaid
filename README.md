@@ -3,7 +3,7 @@
 <!--
 **dhruvkrishnavaid/dhruvkrishnavaid** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
-##### 🔭 I’m currently working on <a href="dhruvkrishnavaid.github.io" target="_blank">my portfolio site</a>.
+##### 🔭 I’m currently working on <a href="https://dhruvkrishnavaid.github.io" target="_blank">my portfolio site</a>.
 ##### 🌱 I’m currently learning advanced CSS3.
 ##### 👯 I’m looking to collaborate on <a href="https://www.javascript.com/" target="_blank">Javascript</a>.
 ##### 🤔 I’m looking for help with <a href="https://kotlinlang.org/" target="_blank">Kotlin</a>.
