@@ -1,4 +1,4 @@
-# I am Dhruv Krishna Vaid.
+# Hi there! I am Dhruv Krishna Vaid.
 
 <!--
 **dhruvkrishnavaid/dhruvkrishnavaid** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -11,3 +11,4 @@
 ##### 📫 How to reach me: <a href="mailto:dhruvkrishna@yandex.com" target="_blank">dhruvkrishna@yandex.com</a>.
 ##### 😄 Pronouns: Genius, Superman.
 ##### ⚡ Fun fact: I'm a boy who is just 13!
+##### ✏️ My favourite text editor: <a href="https://atom.io" target="_blank">Atom</a>.
