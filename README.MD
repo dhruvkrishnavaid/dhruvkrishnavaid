@@ -6,12 +6,11 @@
 <p align="center">
     <img
       align="center"
-      height="160"
       src="https://github-readme-stats.vercel.app/api/top-langs/?username=dhruvkrishnavaid&layout=compact"
     />
     <img
       align="center"
-      height="160"
+         height="140"
       src="https://github-readme-stats.vercel.app/api?username=dhruvkrishnavaid&count_private=true&show_icons=true&custom_title=Github%20Status&hide=issues"
     />
 </p>
