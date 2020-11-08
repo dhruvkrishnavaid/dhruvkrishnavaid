@@ -18,7 +18,7 @@
 ## Hi there! <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px">
 
 -   🌱 Learning more about and studying: **NodeJS**.
--   💙 Interests: games 👾, watching movies🎬, searching useless things on <a href="https://www.google.com/" style="text-decoration:none"><strong><font face="open sans" color="#0288d1">G<font color="red">o<font color="#FFBF00">o<font color="#0288d1">g<font color="green">l<font color="red">e</font></font></font></font></font></font></strong></a>
+-   💙 Interests: games 👾, watching movies🎬, searching useless things on <a href="https://www.google.com/" style="text-decoration:none"><strong><font face="open sans" color="#0288d1">G</font><font face="open sans" color="red">o</font><font face="open sans" color="#FFBF00">o</font><font face="open sans" color="#0288d1">g</font><font face="open sans" color="green">l</font><font face="open sans" color="red">e</font></strong></a>
 - ⚡ Fun fact: I'm a school boy who is currently in Class 9<sup>th</sup> !
 
 ### Languages and Tools
