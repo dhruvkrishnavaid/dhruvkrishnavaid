@@ -1,6 +1,6 @@
 <p align="center">
-    <img align="center" width="280" src="sig.png" />
-    <img align="center" width="510" src="banner.gif" />
+    <img align="center" width="280" src="images/sig.png" />
+    <img align="center" width="510" src="images/banner.gif" />
 </p>
 
 <p align="center">
@@ -18,7 +18,7 @@
 ## Hi there! <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px">
 
 -   🌱 Learning more about and studying: **Java**.
--   💙 Interests: games 👾, watching movies🎬, searching useless things on <a href="https://www.google.com/" style="text-decoration:none" target="_blank"><strong><font face="open sans" color="#0288d1" style="text-decoration:none">G</font><font face="open sans" color="red" style="text-decoration:none">o</font><font face="open sans" color="#FFBF00" style="text-decoration:none">o</font><font face="open sans" color="#0288d1" style="text-decoration:none">g</font><font face="open sans" color="green" style="text-decoration:none">l</font><font face="open sans" color="red" style="text-decoration:none">e</font></strong></a>
+-   💙 Interests: games 👾, watching movies🎬, searching useless things on <a href="https://www.google.com/" style="text-decoration:none" target="_blank"><img src="images/google.svg" alt="Google" width="50px" height="auto" /></a>
 - ⚡ Fun fact: I will soon try to develop a periodic table tester!
 
 ### Languages and Tools
