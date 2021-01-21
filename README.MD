@@ -11,15 +11,15 @@
     <img
       align="center"
          height="140"
-      src="https://github-readme-stats.vercel.app/api?username=dhruvkrishnavaid&count_private=true&show_icons=true&custom_title=Github%20Status&hide=issues"
+      src="https://github-readme-stats.vercel.app/api?username=dhruvkrishnavaid&count_private=true&show_icons=true&custom_title=Github%20Status"
     />
 </p>
 
 ## Hi there! <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px">
 
--   🌱 Learning more about and studying: **NodeJS**.
--   💙 Interests: games 👾, watching movies🎬, searching useless things on <a href="https://www.google.com/" style="text-decoration:none"><strong><font face="open sans" color="#0288d1" style="text-decoration:none">G</font><font face="open sans" color="red" style="text-decoration:none">o</font><font face="open sans" color="#FFBF00" style="text-decoration:none">o</font><font face="open sans" color="#0288d1" style="text-decoration:none">g</font><font face="open sans" color="green" style="text-decoration:none">l</font><font face="open sans" color="red" style="text-decoration:none">e</font></strong></a>
-- ⚡ Fun fact: I'm a school boy who is currently in Class 9<sup>th</sup> !
+-   🌱 Learning more about and studying: **Java**.
+-   💙 Interests: games 👾, watching movies🎬, searching useless things on <a href="https://www.google.com/" style="text-decoration:none" target="_blank"><strong><font face="open sans" color="#0288d1" style="text-decoration:none">G</font><font face="open sans" color="red" style="text-decoration:none">o</font><font face="open sans" color="#FFBF00" style="text-decoration:none">o</font><font face="open sans" color="#0288d1" style="text-decoration:none">g</font><font face="open sans" color="green" style="text-decoration:none">l</font><font face="open sans" color="red" style="text-decoration:none">e</font></strong></a>
+- ⚡ Fun fact: I will soon try to develop a periodic table tester!
 
 ### Languages and Tools
 
@@ -28,7 +28,7 @@
 <p align="left">
   <a href="https://atom.io" target="_blank" style="text-decoration:none">
     <img
-    src="https://devicon.dev/devicon.git/icons/atom/atom-original.svg"
+    src="images/atom-original.svg"
     alt="atom"
     width="40"
     height="40"
@@ -37,7 +37,7 @@
   </a>
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" style="text-decoration:none">
     <img
-    src="https://devicons.github.io/devicon/devicon.git/icons/javascript/javascript-original.svg"
+    src="images/javascript-original.svg"
     alt="javascript"
     width="40"
     height="40"
@@ -46,16 +46,15 @@
   </a>
   <a href="https://getbootstrap.com" target="_blank" style="text-decoration:none">
     <img
-    src="https://devicon.dev/devicon.git/icons/bootstrap/bootstrap-plain.svg"
+    src="images/bootstrap-plain.svg"
     alt="bootstrap"
     width="40"
     height="40"
-    style="margin"
     />
   </a>
   <a href="https://developer.mozilla.org/en-US/docs/Web/css" target="_blank" style="text-decoration:none">
   <img
-    src="https://devicon.dev/devicon.git/icons/css3/css3-plain-wordmark.svg"
+    src="images/css3-plain-wordmark.svg"
     alt="css3"
     width="40"
     height="40"
@@ -63,7 +62,7 @@
   </a>
   <a href="https://developer.mozilla.org/en-US/docs/Web/html" target="_blank" style="text-decoration:none">
     <img
-    src="https://devicon.dev/devicon.git/icons/html5/html5-plain-wordmark.svg"
+    src="images/html5-plain-wordmark.svg"
     alt="html5"
     width="40"
     height="40"
@@ -71,7 +70,7 @@
   </a>
   <a href="https://jquery.com" target="_blank" style="text-decoration:none">
     <img
-    src="https://devicon.dev/devicon.git/icons/jquery/jquery-plain-wordmark.svg"
+    src="images/jquery-plain-wordmark.svg"
     alt="jquery"
     width="40"
     height="40"
