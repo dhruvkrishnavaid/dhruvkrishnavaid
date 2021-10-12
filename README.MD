@@ -84,6 +84,14 @@ These are the languages and tools that I have used.
         height="40"
 />
     </a>
+    <a href="https://www.microsoft.com/en-in/windows/" target="_blank" style="text-decoration:none">
+        <img
+        src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg"
+        alt="windows"
+        width="40"
+        height="40"
+/>
+    </a>
     <a href="https://www.mozilla.org/en-US/firefox/" target="_blank" style="text-decoration:none">
         <img
         src="https://upload.wikimedia.org/wikipedia/commons/a/a0/Firefox_logo%2C_2019.svg"
