@@ -54,7 +54,7 @@ These are the languages and tools that I have used.
   </a>
   <a href="https://www.gatsbyjs.com/" target="_blank" style="text-decoration:none">
   <img
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gatsby/gatsby-plain.svg"
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gatsby/gatsby-original.svg"
     alt="gatsby"
     width="40"
     height="40"
