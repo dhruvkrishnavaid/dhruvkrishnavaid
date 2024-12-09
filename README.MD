@@ -17,9 +17,8 @@
 
 ## Hi there! <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px" height="30px">
 
--   🌱 Learning more about and studying: **Java**, **React**, **React Native** and **Python**.
+-   🌱 Learning more about and studying: **C**, **React**, and **Python**.
 -   💙 Interests: games 👾, watching movies 🎬, searching useless things on <a href="https://www.google.com/" style="text-decoration:none" target="_blank"><sub><img src="images/google.svg" alt="Google" width="50px" height="auto" /></sub></a>.
-- ⚡ Fun fact: I have developed a periodic table tester! <a href="https://github.com/dhruvkrishnavaid/periodic-table-tester">View it here</a>.
 
 ### Languages and Tools
 These are the languages and tools that I have used.
